@@ -1,4 +1,4 @@
-Software embedded developer
+Embedded software developer
 
 <!---
 VladSavenia/VladSavenia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
